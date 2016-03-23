@@ -1,5 +1,5 @@
 cc._RFpush(module, '1b5b9576PhHgIzKRHjUX4to', 'EnterMovetoWyz');
-// Scripts/EnterMovetoWyz.js
+// Scripts\EnterMovetoWyz.js
 
 'use strict';
 
@@ -22,7 +22,7 @@ cc.Class({
     onLoad: function onLoad() {},
 
     toEmeiHouShan: function toEmeiHouShan() {
-        cc.director.loadScene('二峨眉后山');
+        cc.director.loadScene('2wuyazui');
     }
 
     // called every frame, uncomment this function to activate update callback

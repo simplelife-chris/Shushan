@@ -19,7 +19,7 @@ cc.Class({
     onLoad: function onLoad() {},
 
     toEmeiHouShan: function toEmeiHouShan() {
-        cc.director.loadScene('二峨眉后山');
+        cc.director.loadScene('2wuyazui');
     }
 
     // called every frame, uncomment this function to activate update callback
