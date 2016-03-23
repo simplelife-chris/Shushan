@@ -1,5 +1,5 @@
 cc._RFpush(module, 'b35a271BhlE8KDWS029FWH6', 'FadeIn');
-// Scripts\FadeIn.js
+// Scripts/FadeIn.js
 
 "use strict";
 

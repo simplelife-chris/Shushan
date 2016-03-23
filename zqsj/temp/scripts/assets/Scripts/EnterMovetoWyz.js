@@ -1,5 +1,5 @@
 cc._RFpush(module, '1b5b9576PhHgIzKRHjUX4to', 'EnterMovetoWyz');
-// Scripts\EnterMovetoWyz.js
+// Scripts/EnterMovetoWyz.js
 
 'use strict';
 
